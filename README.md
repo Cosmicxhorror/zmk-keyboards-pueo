@@ -40,4 +40,4 @@ By default the nice!nano controllers are designed to be face up, however the fir
 # Default Keymap
 
 The default keymap is provided in the module, here is a visual guide made using caksoylar's great [keymap-drawer](https://github.com/caksoylar/keymap-drawer)
-![keymap](https://github.com/grassfedreeve/akohekohe/blob/main/img/example_keymap.svg)
+![keymap](https://github.com/grassfedreeve/pueo/blob/main/img/example_keymap.svg)
