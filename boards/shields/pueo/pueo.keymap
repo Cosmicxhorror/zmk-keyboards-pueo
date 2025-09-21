@@ -14,6 +14,12 @@
 &soft_off { hold-time-ms = <5000>; };
 
 / {
+    chosen {
+        zmk,kscan = &kscan_facedown;
+    };
+};
+
+/ {
     combos {
         compatible = "zmk,combos";
 
